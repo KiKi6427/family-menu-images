@@ -1,0 +1,1006 @@
+{
+  "version": "1.5.1",
+  "recipeUnlockPrice": 9.9,
+  "currency": "CNY",
+  "dishes": [
+    {
+      "price": 0,
+      "tags": [
+        "聚会",
+        "辣",
+        "烤鱼"
+      ],
+      "id": "d01",
+      "name": "咕嘟咕嘟豆豉灵魂鱼",
+      "category": "镇场硬菜",
+      "description": "家庭版豆豉烤鱼，外焦里嫩，酱香浓郁",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d01-%E5%92%95%E5%98%9F%E5%92%95%E5%98%9F%E8%B1%86%E8%B1%89%E7%81%B5%E9%AD%82%E9%B1%BC.jpg",
+      "difficulty": "hard",
+      "recipePrice": 29.9,
+      "recipeSteps": [
+        "处理鱼：鱼要切成两半，方便腌制和烤；腌鱼20分钟左右（不要太久），少许料酒（不要放太多，不然一股料酒味）、白胡椒粉、盐、葱、姜、花椒；用纸巾把鱼擦干后烤，盘中喷油，鱼底部放洋葱姜，40分钟220度（具体看鱼大小）",
+        "炒酱料：先下葱姜蒜（蒜要多一些）、豆豉（半袋左右，不要太多容易咸），炒香后放白胡椒粉、十三香、豆瓣酱、生抽、老抽、蚝油、糖和甜面酱二选一，加水；吃辣的话可以放点小米椒",
+        "整合：配菜铺到底层，豆芽和洋葱必铺，其他随意；炒好的料先到进来煮会菜，后放烤鱼"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "聚会",
+        "海鲜",
+        "咖喱"
+      ],
+      "id": "d02",
+      "name": "椰浆咖喱海鲜大联欢",
+      "category": "镇场硬菜",
+      "description": "先炸后炒，咖喱与椰浆双重加持",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d02-%E6%A4%B0%E6%B5%86%E5%92%96%E5%96%B1%E6%B5%B7%E9%B2%9C%E5%A4%A7%E8%81%94%E6%AC%A2.jpg",
+      "difficulty": "expert",
+      "recipePrice": 49.9,
+      "recipeSteps": [
+        "处理虾：活虾热锅焖一会闷晕，把头掰下来连带虾线，把须的部分剪掉，后背开刀（方便后面炸）",
+        "处理蟹：买冻的就行，活的话把壳掰开，蟹身掰两半，剪成多段就行",
+        "油炸（这步很关键）：海鲜裹上玉米淀粉+面粉，加点胡椒粉、料酒（一定要少）；油热后放到锅里炸到金黄，不够脆的话可以二次复炸，复炸油温一定要高",
+        "开炒：先炒虾头，炒出虾油，再把虾头拿出去放姜和蒜，然后放洋葱和彩椒/尖椒（不要全放），然后放虾和螃蟹；加水，放入咖喱块（不要全放），咖喱融化后根据咸淡看是否需要加点盐，加椰浆（倒一半），再加其他配料海鲜（如花蛤、鱿鱼等），临出锅前再加点咖喱和椰浆（加强风味），最后再撒点青椒"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "聚会",
+        "海鲜",
+        "蒜香"
+      ],
+      "id": "d03",
+      "name": "避风塘蒜香脆炸海鲜",
+      "category": "镇场硬菜",
+      "description": "蒜香酥脆，避风塘风味海鲜大拼",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d03-%E9%81%BF%E9%A3%8E%E5%A1%98%E8%92%9C%E9%A6%99%E8%84%86%E7%82%B8%E6%B5%B7%E9%B2%9C.jpg",
+      "difficulty": "hard",
+      "recipePrice": 29.9,
+      "recipeSteps": [
+        "处理虾：活虾热锅焖一会闷晕，把头掰下来连带虾线，把须的部分剪掉，后背开刀（方便后面炸）",
+        "处理蟹：买冻的就行，活的话把壳掰开，蟹身掰两半，剪成多段就行",
+        "油炸（这步很关键）：海鲜裹上玉米淀粉+面粉，加点胡椒粉、料酒（一定要少）；油热后放到锅里炸到金黄，不够脆的话可以二次复炸，复炸油温一定要高",
+        "开炒：倒入蒜油，放葱（洋葱）、姜、辣椒，放海鲜，放避风塘料翻炒，最后加点青椒"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "聚会",
+        "火锅",
+        "冬季"
+      ],
+      "id": "d04",
+      "name": "冬日暖身羊蝎子锅",
+      "category": "围炉开涮",
+      "description": "高压锅先炖后涮，冬日聚会首选",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d04-%E5%86%AC%E6%97%A5%E6%9A%96%E8%BA%AB%E7%BE%8A%E8%9D%8E%E5%AD%90%E9%94%85.jpg",
+      "difficulty": "hard",
+      "recipePrice": 19.9,
+      "recipeSteps": [
+        "处理羊蝎子：泡水1小时左右，把血水泡出来；冷水下锅，加葱姜料酒，撇出血沫；洗干净",
+        "炖：羊蝎子放入高压锅，放葱姜、牛羊肉炖料、白胡椒粉、一勺豆瓣酱、几颗冰糖、料酒、老抽生抽、盐、干辣椒；高压锅炖20-25分钟左右；吃辣的话可以放点火锅底料"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "小吃",
+        "海鲜"
+      ],
+      "id": "d05",
+      "name": "外酥里嫩蚵仔煎",
+      "category": "解馋小食",
+      "description": "闽南风味，外脆里嫩小生蚝煎",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d05-%E5%A4%96%E9%85%A5%E9%87%8C%E5%AB%A9%E8%9A%B5%E4%BB%94%E7%85%8E.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "处理小生蚝：加淀粉冲洗，多洗几次，沥干水；加红薯淀粉（多放）、白胡椒、一点盐、蒜苗（可以多加点），用手滴点水进去搅拌，注意不要把小生蚝弄破，搅成糊糊状",
+        "喷油，油热后开煎，倒入糊糊，等第一面定型后再翻面（尝试颠锅翻面或用盘子扣上翻），然后倒入2个打散的鸡蛋液，接着翻面，盛出",
+        "撒番茄酱，或者其他的酱"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "聚会",
+        "辣",
+        "小龙虾"
+      ],
+      "id": "d06",
+      "name": "啤酒乱炖香辣小龙虾",
+      "category": "镇场硬菜",
+      "description": "啤酒焖煮，聚会桌的硬通货",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d06-%E5%95%A4%E9%85%92%E4%B9%B1%E7%82%96%E9%A6%99%E8%BE%A3%E5%B0%8F%E9%BE%99%E8%99%BE.jpg",
+      "difficulty": "hard",
+      "recipePrice": 29.9,
+      "recipeSteps": [
+        "处理虾：加淀粉和水多清洗几遍，斜刀剪虾头（动作要快），从尾部把虾线抽出来，下锅煎一下",
+        "开炒：放葱姜蒜块（姜和蒜可多一些）、火锅底料、豆瓣酱，放虾炒，放生抽和蚝油、盐、糖，到啤酒，焖10分钟，加青椒和黄瓜"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "素菜"
+      ],
+      "id": "d07",
+      "name": "土豆豆角茄子三兄弟",
+      "category": "家的味道",
+      "description": "东北家常三蔬，一锅焖出家的味道",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d07-%E5%9C%9F%E8%B1%86%E8%B1%86%E8%A7%92%E8%8C%84%E5%AD%90%E4%B8%89%E5%85%84%E5%BC%9F.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "蔬菜的处理：豆角、茄子、土豆都切成条状备用，茄子放点盐杀杀水",
+        "调料汁：生抽、老抽、蚝油、淀粉、白糖、豆瓣酱、水",
+        "开炒：放入葱和蒜沫炒香，放少量西红柿和豆角炒一下，加料汁加水焖一会再放茄子和土豆接着焖，最后放青椒和少量蒜 （不嫌麻烦可以先把豆角和茄子煎一些）"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "东北菜"
+      ],
+      "id": "d08",
+      "name": "油亮东北地三鲜",
+      "category": "家的味道",
+      "description": "经典东北地三鲜，土豆茄子豆角",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d08-%E6%B2%B9%E4%BA%AE%E4%B8%9C%E5%8C%97%E5%9C%B0%E4%B8%89%E9%B2%9C.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "蔬菜处理：豆角和茄子切成滚刀状，用油先炸一下（先炸土豆后炸茄子），茄子一定要先放盐杀水",
+        "调料汁：少量蒜、生抽、老抽、淀粉、白糖、少量盐、水、西红柿、尖椒搅拌",
+        "开炒：放葱和蒜沫炒香，放土豆和茄子炒，加料汁"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "炖菜"
+      ],
+      "id": "d09",
+      "name": "豆角土豆炖排骨一锅端",
+      "category": "家的味道",
+      "description": "高压锅炖排骨，再加豆角土豆，一锅出",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d09-%E8%B1%86%E8%A7%92%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8%E4%B8%80%E9%94%85%E7%AB%AF.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "处理排骨：泡水1小时左右，把血水泡出来；冷水下锅，加葱姜料酒，撇出血沫；洗干净",
+        "炖肉：放排骨，放葱、姜、生抽、老抽、冰糖、大料、一勺豆瓣酱、冰糖；放到高压锅炖20-25分钟",
+        "炖菜：葱蒜炝锅，放入豆角炒一下，加入肉汤先焖一会，然后加土豆和排骨炖一会，最后放尖椒"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "炖菜"
+      ],
+      "id": "d10",
+      "name": "萝卜土豆吸汁炖牛肉",
+      "category": "家的味道",
+      "description": "软烂入味，萝卜土豆吸满肉汤",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d10-%E8%90%9D%E5%8D%9C%E5%9C%9F%E8%B1%86%E5%90%B8%E6%B1%81%E7%82%96%E7%89%9B%E8%82%89.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "处理肉：泡水1小时左右，把血水泡出来；冷水下锅，加葱姜料酒，撇出血沫；洗干净",
+        "炖肉：放肉，放葱、姜、蒜（多放）、生抽、老抽、冰糖（一点点）、大料、白胡椒粉（多放）、辣椒；放到高压锅炖20-25分钟",
+        "把多的肉和汤盛出来，放土豆和白萝卜块，再接着炖会"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "咖喱"
+      ],
+      "id": "d11",
+      "name": "咖喱椰浆咕叽鸡",
+      "category": "家的味道",
+      "description": "咖喱块+椰浆，鸡肉版家常咖喱",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d11-%E5%92%96%E5%96%B1%E6%A4%B0%E6%B5%86%E5%92%95%E5%8F%BD%E9%B8%A1.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "处理肉：鸡肉去骨或成块，放盐、白胡椒、一点点料酒生抽研制20分钟",
+        "开炒：先放姜、蒜、洋葱炒鸡肉，然后放土豆块和胡萝卜块，加水、咖喱、盐（看咸淡），焖煮10分钟左右，加椰浆/牛奶（还可以再加点洋葱），收汁出锅"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "快手",
+        "海鲜"
+      ],
+      "id": "d12",
+      "name": "西葫芦虾仁滑一滑",
+      "category": "家的味道",
+      "description": "西葫芦配虾仁，清爽快手",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d12-%E8%A5%BF%E8%91%AB%E8%8A%A6%E8%99%BE%E4%BB%81%E6%BB%91%E4%B8%80%E6%BB%91.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "西葫芦斜着切后竖着切成菱形片；虾仁用少许料酒、淀粉抓匀",
+        "葱蒜煸锅，放半个西红柿炒出汁，下虾仁滑炒至变色，放西葫芦快炒，加生抽、蚝油，可选少许醋，最后撒点蒜末"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "素菜"
+      ],
+      "id": "d13",
+      "name": "香菇油菜绿叶情",
+      "category": "蔬食主义",
+      "description": "清爽素菜，香菇与油菜的经典搭配",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d13-%E9%A6%99%E8%8F%87%E6%B2%B9%E8%8F%9C%E7%BB%BF%E5%8F%B6%E6%83%85.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "香菇切片，葱蒜煸锅，放香菇，放油菜，放生抽和蚝油，最后再撒点蒜末"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "快手"
+      ],
+      "id": "d14",
+      "name": "藕断丝连鸡丁局",
+      "category": "家的味道",
+      "description": "藕丁脆爽，鸡丁焦香",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d14-%E8%97%95%E6%96%AD%E4%B8%9D%E8%BF%9E%E9%B8%A1%E4%B8%81%E5%B1%80.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "藕、彩椒、鸡切成丁，鸡肉加一点料酒、生抽、淀粉研制",
+        "葱蒜煸锅，先放鸡丁炒至焦黄，再放藕，放入生抽、郫县豆瓣酱，最后放彩椒煸炒"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "海鲜",
+        "快手",
+        "辣"
+      ],
+      "id": "d15",
+      "name": "花蛤开口见幸福",
+      "category": "鲜掉眉毛",
+      "description": "花蛤吐沙快炒，郫县豆瓣提味",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d15-%E8%8A%B1%E8%9B%A4%E5%BC%80%E5%8F%A3%E8%A7%81%E5%B9%B8%E7%A6%8F.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "花蛤吐沙：加盐水、滴几滴香油，静置1-2小时吐沙，反复冲洗沥干",
+        "葱姜蒜和小米椒煸锅，下尖椒、花蛤大火爆炒至开口，放郫县豆瓣酱（或少许火锅底料）、生抽，快炒出锅"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "炖菜"
+      ],
+      "id": "d16",
+      "name": "软烂脱骨炖排骨",
+      "category": "家的味道",
+      "description": "纯排骨版，不含豆角土豆，汤浓肉烂",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d16-%E8%BD%AF%E7%83%82%E8%84%B1%E9%AA%A8%E7%82%96%E6%8E%92%E9%AA%A8.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "处理排骨：泡水1小时左右，把血水泡出来；冷水下锅，加葱姜料酒，撇出血沫；洗干净",
+        "炖肉：放排骨，放葱、姜、生抽、老抽、冰糖、大料、一勺豆瓣酱；放到高压锅炖20-25分钟",
+        "（不含豆角土豆）可直接出锅，或加少量尖椒提味"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "炖菜"
+      ],
+      "id": "d17",
+      "name": "原汁慢炖大牛腩",
+      "category": "家的味道",
+      "description": "纯牛肉版，不含萝卜土豆，软烂鲜香",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d17-%E5%8E%9F%E6%B1%81%E6%85%A2%E7%82%96%E5%A4%A7%E7%89%9B%E8%85%A9.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "处理肉：泡水1小时左右，把血水泡出来；冷水下锅，加葱姜料酒，撇出血沫；洗干净",
+        "炖肉：放肉，放葱、姜、蒜（多放）、生抽、老抽、冰糖（一点点）、大料、白胡椒粉（多放）、辣椒；放到高压锅炖20-25分钟",
+        "（不含萝卜土豆）炖至软烂即可，留汤或收汁均可"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "咖喱"
+      ],
+      "id": "d18",
+      "name": "咖喱椰香炖牛肉",
+      "category": "家的味道",
+      "description": "咖喱块+椰浆，牛肉版家常咖喱",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d18-%E5%92%96%E5%96%B1%E6%A4%B0%E9%A6%99%E7%82%96%E7%89%9B%E8%82%89.jpg",
+      "difficulty": "hard",
+      "recipePrice": 19.9,
+      "recipeSteps": [
+        "处理肉：牛肉加葱姜料酒，去沫焯水",
+        "开炒：先放姜、蒜、洋葱，下牛肉块，然后放土豆块和胡萝卜块，加水、咖喱、盐（看咸淡），焖煮10分钟左右，加椰浆/牛奶（还可以再加点洋葱），收汁出锅"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "海鲜",
+        "快手",
+        "辣"
+      ],
+      "id": "d19",
+      "name": "豆瓣香辣快炒虾",
+      "category": "鲜掉眉毛",
+      "description": "鲜虾快炒，豆瓣香辣",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d19-%E8%B1%86%E7%93%A3%E9%A6%99%E8%BE%A3%E5%BF%AB%E7%82%92%E8%99%BE.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "处理虾：去须、开背去虾线，用少许料酒、淀粉抓匀",
+        "葱姜蒜和小米椒煸锅，下虾大火快炒至变色卷曲，放郫县豆瓣酱、生抽，撒点尖椒提味，出锅"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "快手",
+        "素菜"
+      ],
+      "id": "d20",
+      "name": "西葫芦鸡蛋亲亲嘴",
+      "category": "家的味道",
+      "description": "西葫芦配鸡蛋，家常下饭菜",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d20-%E8%A5%BF%E8%91%AB%E8%8A%A6%E9%B8%A1%E8%9B%8B%E4%BA%B2%E4%BA%B2%E5%98%B4.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "西葫芦斜着切后竖着切成菱形片；鸡蛋打散加少许盐",
+        "先炒熟鸡蛋盛出；葱蒜煸锅，放半个西红柿炒出汁，下西葫芦炒软，倒回鸡蛋，加生抽、蚝油，可选少许醋，最后撒点蒜末"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "快手"
+      ],
+      "id": "d21",
+      "name": "国民下饭西红柿蛋",
+      "category": "家的味道",
+      "description": "国民家常菜，酸甜开胃",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d21-%E5%9B%BD%E6%B0%91%E4%B8%8B%E9%A5%AD%E8%A5%BF%E7%BA%A2%E6%9F%BF%E8%9B%8B.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "西红柿切块，鸡蛋打散加少许盐",
+        "热油划散鸡蛋盛出；再热油，葱蒜炝锅，下西红柿炒出红汤，倒回鸡蛋，按口味加盐、一点点糖、生抽调味，撒葱花出锅"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "快手",
+        "主食"
+      ],
+      "id": "d22",
+      "name": "隔夜饭粒粒金黄炒饭",
+      "category": "家的味道",
+      "description": "隔夜饭更好，粒粒分明",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d22-%E9%9A%94%E5%A4%9C%E9%A5%AD%E7%B2%92%E7%B2%92%E9%87%91%E9%BB%84%E7%82%92%E9%A5%AD.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "隔夜米饭拨散；鸡蛋打散，可加点火腿丁或虾仁（可选）",
+        "多油热锅，下蛋液快速划散盛出；再下米饭大火炒散，倒回鸡蛋，加盐、生抽，撒葱花，炒匀即可"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "聚会",
+        "火锅",
+        "辣"
+      ],
+      "id": "d23",
+      "name": "家里随便烫麻辣烫",
+      "category": "围炉开涮",
+      "description": "家庭版麻辣烫，选料自由",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d23-%E5%AE%B6%E9%87%8C%E9%9A%8F%E4%BE%BF%E7%83%AB%E9%BA%BB%E8%BE%A3%E7%83%AB.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "准备食材：按喜好选豆腐、宽粉、土豆、藕片、各种丸子、青菜等，洗净切好",
+        "汤底：水烧开，放麻辣烫底料（或火锅底料+郫县豆瓣）、葱姜蒜、盐，可加点牛奶或浓汤宝增香",
+        "煮：先下耐煮的（土豆、藕、丸子），后下易熟的（青菜、豆腐）；碗底可放麻酱、蒜泥、香菜，捞进料浇汤"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "硬菜"
+      ],
+      "id": "d24",
+      "name": "外婆红烧肉不腻版",
+      "category": "家的味道",
+      "description": "肥而不腻，冰糖上色，入口即化",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d24-%E5%A4%96%E5%A9%86%E7%BA%A2%E7%83%A7%E8%82%89%E4%B8%8D%E8%85%BB%E7%89%88.jpg",
+      "difficulty": "hard",
+      "recipePrice": 19.9,
+      "recipeSteps": [
+        "五花肉切3厘米方块，冷水下锅加葱姜料酒焯水，撇沫洗净",
+        "锅少油放冰糖小火炒糖色至琥珀色，下肉块翻炒上色",
+        "加生抽、老抽、料酒、八角、桂皮、香叶，加水没过肉，大火烧开转小火炖40分钟",
+        "大火收汁至浓稠红亮，撒葱花即可"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "快手"
+      ],
+      "id": "d25",
+      "name": "青椒土豆丝下饭魂",
+      "category": "家的味道",
+      "description": "刀工见真章，爽脆酸辣最下饭",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d25-%E9%9D%92%E6%A4%92%E5%9C%9F%E8%B1%86%E4%B8%9D%E4%B8%8B%E9%A5%AD%E9%AD%82.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "土豆、青椒切丝，土豆泡水去淀粉沥干",
+        "热锅冷油，下花椒干辣椒爆香，下土豆丝大火快炒",
+        "加生抽、少许醋、盐，临出锅放青椒丝翻炒断生",
+        "喜欢酸辣可加一点陈醋和小米椒"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "甜口"
+      ],
+      "id": "d26",
+      "name": "可乐鸡翅咕嘟局",
+      "category": "家的味道",
+      "description": "甜咸交织，小朋友和大人都爱",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d26-%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85%E5%92%95%E5%98%9F%E5%B1%80.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "鸡翅两面划刀，冷水下锅焯水去血沫",
+        "少油将鸡翅煎至两面金黄",
+        "加可乐没过鸡翅，放生抽、老抽、姜片，大火烧开转中火焖15分钟",
+        "大火收汁至粘稠挂壁，撒白芝麻"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "经典"
+      ],
+      "id": "d27",
+      "name": "木须肉找不到木",
+      "category": "家的味道",
+      "description": "经典鲁菜，黄花木耳鸡蛋肉片一锅炒",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d27-%E6%9C%A8%E9%A1%BB%E8%82%89%E6%89%BE%E4%B8%8D%E5%88%B0%E6%9C%A8.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "猪里脊切片，加料酒、生抽、淀粉抓匀；鸡蛋打散；木耳、黄花泡发",
+        "热油划散鸡蛋盛出；再热油滑炒肉片至变色盛出",
+        "留底油爆香葱蒜，下木耳黄花翻炒，倒回肉片和鸡蛋",
+        "加生抽、蚝油、少许糖、盐，勾薄芡，淋香油出锅"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "素菜",
+        "清爽"
+      ],
+      "id": "d28",
+      "name": "荷塘小炒不清净",
+      "category": "蔬食主义",
+      "description": "莲藕荷兰豆胡萝卜，清爽又好看",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d28-%E8%8D%B7%E5%A1%98%E5%B0%8F%E7%82%92%E4%B8%8D%E6%B8%85%E5%87%80.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "莲藕切薄片泡水防氧化，荷兰豆去筋，胡萝卜切菱形片",
+        "所有蔬菜焯水30秒过冷水沥干",
+        "少油爆香蒜片，下所有蔬菜大火快炒",
+        "加盐、少许糖、湿淀粉勾薄芡，淋几滴香油"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "素菜",
+        "辣",
+        "川菜"
+      ],
+      "id": "d29",
+      "name": "麻婆豆腐心太软",
+      "category": "蔬食主义",
+      "description": "花椒麻、豆瓣辣、豆腐嫩，拌饭神器",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d29-%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E5%BF%83%E5%A4%AA%E8%BD%AF.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "嫩豆腐切2厘米方块，盐水焯1分钟去豆腥",
+        "热锅下油，炒香牛肉末（或省略），加郫县豆瓣、姜蒜末炒出红油",
+        "加高汤或水，下豆腐轻推，加生抽、少许糖",
+        "分三次勾薄芡，撒花椒粉和葱花"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "素菜",
+        "辣"
+      ],
+      "id": "d30",
+      "name": "干煸菜花省钱局",
+      "category": "蔬食主义",
+      "description": "干香微辣，菜花焦边最带劲",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d30-%E5%B9%B2%E7%85%B8%E8%8F%9C%E8%8A%B1%E7%9C%81%E9%92%B1%E5%B1%80.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "菜花掰小朵盐水浸泡，沥干",
+        "多油中火将菜花煸至边缘微焦盛出",
+        "留底油，下干辣椒、花椒、蒜片爆香",
+        "倒回菜花，加生抽、盐、少许糖，大火翻匀"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "凉菜",
+        "开胃"
+      ],
+      "id": "d31",
+      "name": "啪一声拍黄瓜",
+      "category": "凉丝丝",
+      "description": "蒜香酸辣，一巴掌拍出来的开胃菜",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d31-%E5%95%AA%E4%B8%80%E5%A3%B0%E6%8B%8D%E9%BB%84%E7%93%9C.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "黄瓜洗净，用刀背拍裂后切段",
+        "加蒜末、生抽、香醋、香油、盐、少许糖",
+        "喜欢辣加小米椒圈，拌匀静置5分钟入味",
+        "冷藏后口感更佳"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "凉菜",
+        "素菜"
+      ],
+      "id": "d32",
+      "name": "黑白分明凉拌耳",
+      "category": "凉丝丝",
+      "description": "木耳爽脆，紫皮洋葱提味",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d32-%E9%BB%91%E7%99%BD%E5%88%86%E6%98%8E%E5%87%89%E6%8B%8C%E8%80%B3.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "干木耳温水泡发，撕小朵；洋葱切丝",
+        "木耳沸水焯2分钟过冷水沥干",
+        "加生抽、香醋、香油、蒜末、少许糖、盐",
+        "撒香菜，拌匀即可"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "凉菜",
+        "辣",
+        "川菜"
+      ],
+      "id": "d33",
+      "name": "口水横飞口水鸡",
+      "category": "凉丝丝",
+      "description": "麻辣鲜香，鸡肉嫩滑，越吃越上头",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d33-%E5%8F%A3%E6%B0%B4%E6%A8%AA%E9%A3%9E%E5%8F%A3%E6%B0%B4%E9%B8%A1.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "鸡腿冷水下锅加葱姜料酒，煮15分钟关火焖10分钟",
+        "捞出立刻泡冰水，撕条或切块",
+        "调口水汁：生抽、香醋、辣椒油、花椒油、糖、蒜末、花生碎",
+        "鸡肉摆盘，浇汁，撒葱花和芝麻"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "海鲜",
+        "蒜香",
+        "蒸"
+      ],
+      "id": "d34",
+      "name": "蒜香轰炸生蚝局",
+      "category": "鲜掉眉毛",
+      "description": "蒜蓉粉丝蒸生蚝，鲜到眉毛掉下来",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d34-%E8%92%9C%E9%A6%99%E8%BD%B0%E7%82%B8%E7%94%9F%E8%9A%9D%E5%B1%80.jpg",
+      "difficulty": "hard",
+      "recipePrice": 39.9,
+      "recipeSteps": [
+        "生蚝刷洗干净，撬开留一半壳，沥干",
+        "粉丝温水泡软剪短，铺在每个生蚝壳底",
+        "炒蒜蓉：多量蒜末一半炸至金黄，与生蒜末混合，加蒸鱼豉油、少许糖",
+        "每个生蚝放蒜蓉，水开后大火蒸5-6分钟，撒葱花泼热油"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "海鲜",
+        "蒜香",
+        "蒸"
+      ],
+      "id": "d35",
+      "name": "粉丝缠扇贝不肯走",
+      "category": "鲜掉眉毛",
+      "description": "蒜蓉粉丝蒸扇贝，宴客硬菜",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d35-%E7%B2%89%E4%B8%9D%E7%BC%A0%E6%89%87%E8%B4%9D%E4%B8%8D%E8%82%AF%E8%B5%B0.jpg",
+      "difficulty": "hard",
+      "recipePrice": 39.9,
+      "recipeSteps": [
+        "扇贝洗净去沙袋，壳刷净；粉丝泡软",
+        "扇贝放壳上，底下垫粉丝",
+        "蒜蓉酱：蒜末+蒸鱼豉油+糖+少许蚝油，铺在扇贝上",
+        "水开蒸5分钟，撒葱花，淋热油"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "海鲜",
+        "聚会",
+        "硬菜"
+      ],
+      "id": "d36",
+      "name": "蟹王登基全套宴",
+      "category": "镇场硬菜",
+      "description": "帝王蟹三吃：蒸、炒、粥，聚会顶配",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d36-%E8%9F%B9%E7%8E%8B%E7%99%BB%E5%9F%BA%E5%85%A8%E5%A5%97%E5%AE%B4.jpg",
+      "difficulty": "expert",
+      "recipePrice": 66.6,
+      "recipeSteps": [
+        "帝王蟹处理：刷净，卸腿和蟹身，蟹腮去掉，蟹身切大块",
+        "第一吃：蟹腿清蒸，水开后蒸8-10分钟，蘸姜醋或黄油",
+        "第二吃：蟹身和蟹壳炒姜葱，加料酒、少许盐，大火快炒",
+        "第三吃：蟹壳和边角料煮粥，加米、姜丝，熬至浓稠，撒葱花"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "主食",
+        "山西"
+      ],
+      "id": "d37",
+      "name": "香死老爷子莜面",
+      "category": "家的味道",
+      "description": "山西莜面栲栳栳，筋道蘸汁，香到老爷子跺脚",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d37-%E9%A6%99%E6%AD%BB%E8%80%81%E7%88%B7%E5%AD%90%E8%8E%9C%E9%9D%A2.jpg",
+      "difficulty": "expert",
+      "recipePrice": 39.9,
+      "recipeSteps": [
+        "莜面用开水烫面，揉成光滑面团，醒20分钟",
+        "揪小剂子，在光滑面板或刀面上搓成薄筒状，码入蒸笼",
+        "水开蒸10-12分钟至熟",
+        "调蘸汁：番茄鸡蛋卤，或羊肉臊子，或醋+蒜泥+香油+酱油"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "汤",
+        "冬季",
+        "炖菜"
+      ],
+      "id": "d38",
+      "name": "咕嘟咕嘟咩咩萝卜汤",
+      "category": "汤汤水水",
+      "description": "羊肉白萝卜慢炖，汤白肉烂，冬日暖胃首选",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d38-%E5%92%95%E5%98%9F%E5%92%95%E5%98%9F%E5%92%A9%E5%92%A9%E8%90%9D%E5%8D%9C%E6%B1%A4.jpg",
+      "difficulty": "medium",
+      "recipePrice": 12.8,
+      "recipeSteps": [
+        "处理羊肉：羊肉切大块，冷水浸泡1-2小时，中途换水2-3次泡出血水",
+        "冷水下锅加葱姜料酒，大火煮开撇浮沫，捞出用温水冲洗（别用冷水，否则肉会柴）",
+        "砂锅或汤锅加足量开水，下羊肉、姜片、葱段，大火煮沸后转中小火炖1小时至羊肉软烂",
+        "白萝卜切滚刀块，下汤中再煮20分钟至萝卜透明；加盐、白胡椒粉调味",
+        "撒香菜或葱花出锅，喜欢可淋几滴香油"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "汤",
+        "快手",
+        "家常"
+      ],
+      "id": "d39",
+      "name": "蛋花紫菜飘飘汤",
+      "category": "汤汤水水",
+      "description": "紫菜蛋花冲汤，三分钟上桌，鲜掉眉毛",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d39-%E8%9B%8B%E8%8A%B1%E7%B4%AB%E8%8F%9C%E9%A3%98%E9%A3%98%E6%B1%A4.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
+      "recipeSteps": [
+        "碗里放紫菜、虾皮、盐、白胡椒粉、少许生抽和香油备用（紫菜别下锅久煮，越煮越没鲜味）",
+        "鸡蛋打散，加1勺清水搅匀，蛋花会更嫩",
+        "锅中烧一大碗清水，可按喜好勾薄芡（少许淀粉加水），水开后转小火",
+        "将蛋液如细线般转圈淋入，不要搅拌，等蛋花自然凝固约10秒",
+        "把蛋花汤冲入碗中与紫菜混合，撒葱花或香菜即可"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "白酒",
+        "聚会"
+      ],
+      "id": "d40",
+      "name": "一醉方休白酒",
+      "category": "吨吨吨",
+      "description": "小杯白酒，聚会助兴，杜杜说：适量就好别逞强",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d40-%E4%B8%80%E9%86%89%E6%96%B9%E4%BC%91%E7%99%BD%E9%85%92.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "啤酒",
+        "聚会"
+      ],
+      "id": "d41",
+      "name": "撑到爆炸啤酒",
+      "category": "吨吨吨",
+      "description": "冰啤酒配硬菜，吨吨吨就完事了",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d41-%E6%92%91%E5%88%B0%E7%88%86%E7%82%B8%E5%95%A4%E9%85%92.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "红酒",
+        "聚会"
+      ],
+      "id": "d42",
+      "name": "幽雅知性红酒",
+      "category": "吨吨吨",
+      "description": "轻轻摇杯，假装很懂，其实好喝就行",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d42-%E5%B9%BD%E9%9B%85%E7%9F%A5%E6%80%A7%E7%BA%A2%E9%85%92.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "鸡尾酒",
+        "特调"
+      ],
+      "id": "d43",
+      "name": "杜杜特调鸡尾酒",
+      "category": "吨吨吨",
+      "description": "杜大厨签名特调，酸甜带劲，聚会C位饮品",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d43-%E6%9D%9C%E6%9D%9C%E7%89%B9%E8%B0%83%E9%B8%A1%E5%B0%BE%E9%85%92.jpg",
+      "difficulty": "hard",
+      "recipePrice": 19.9,
+      "recipeSteps": [
+        "备杯：高球杯或玛格丽特杯口抹一圈青柠汁，蘸半圈细盐+半圈梅子粉（没有梅子粉就全蘸盐，杜杜不挑）",
+        "杜杜基底：雪克壶里加 45ml 伏特加（或白朗姆）、30ml 鲜榨青柠汁、20ml 蜂蜜/simple syrup、10ml 君度（没有就省略）",
+        "秘密武器：加 2-3 片新鲜薄荷 + 3 颗冷冻青葡萄，盖紧雪克 15 秒——杜杜原话：shake it like you mean it",
+        "过滤入杯，加满手打苏打或汤力水至八分满；想要粉色版就滴 5ml 石榴糖浆沿杯壁缓缓淋入",
+        "装饰：插一支薄荷 + 串半颗樱桃（或家里任意水果），干杯！"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "果汁",
+        "清爽"
+      ],
+      "id": "d44",
+      "name": "果汁",
+      "category": "吨吨吨",
+      "description": "鲜榨或盒装都行，杜杜负责倒满",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d44-%E6%9E%9C%E6%B1%81.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "汽水",
+        "快乐水"
+      ],
+      "id": "d45",
+      "name": "可乐",
+      "category": "吨吨吨",
+      "description": "冰可乐，快乐水，配炸鸡绝配",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d45-%E5%8F%AF%E4%B9%90.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "果茶",
+        "自制"
+      ],
+      "id": "d46",
+      "name": "果茶",
+      "category": "吨吨吨",
+      "description": "杜杜家自制果茶，水果+茶底，吨吨吨停不下来",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d46-%E6%9E%9C%E8%8C%B6.jpg",
+      "difficulty": "easy",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "茶底：500ml 刚滚水冲泡 3g 红茶或乌龙茶，盖焖 3 分钟，滤出茶汤放凉（或直接放冰箱）",
+        "水果：半个苹果/半个橙/几颗草莓切小块，留几块装饰；可选加 2-3 片柠檬",
+        "组装：杯中先放水果和 2 大勺蜂蜜（或果糖），倒入茶汤至八分满，加满冰块",
+        "疯狂摇晃或搅拌 10 秒，让水果出汁；喜欢带小料可以扔几颗脆波波或椰果",
+        "插上吸管，吨吨吨——杜杜特调果茶完成！"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "清水",
+        "解腻"
+      ],
+      "id": "d47",
+      "name": "白开水",
+      "category": "吨吨吨",
+      "description": "最朴素的温柔，解腻必备，无限续杯",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d47-%E7%99%BD%E5%BC%80%E6%B0%B4.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "饮品",
+        "茶",
+        "家常"
+      ],
+      "id": "d48",
+      "name": "茶",
+      "category": "吨吨吨",
+      "description": "热茶或冷泡，饭后一杯，舒服",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d48-%E8%8C%B6.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
+        "娱乐",
+        "音乐",
+        "现场"
+      ],
+      "id": "e01",
+      "name": "小杜自弹自唱 Live",
+      "category": "娱乐设施",
+      "description": "饭后限定曲目，跑调也算气氛组",
+      "imageUrl": "",
+      "recipeUnlock": false,
+      "placeholderEmoji": "🎸"
+    },
+    {
+      "price": 0,
+      "tags": [
+        "娱乐",
+        "音乐",
+        "伴奏"
+      ],
+      "id": "e02",
+      "name": "气氛伴奏随便点",
+      "category": "娱乐设施",
+      "description": "想唱就唱，麦霸请自觉排队",
+      "imageUrl": "",
+      "recipeUnlock": false,
+      "placeholderEmoji": "🎹"
+    },
+    {
+      "price": 0,
+      "tags": [
+        "娱乐",
+        "棋牌",
+        "斗地主"
+      ],
+      "id": "e03",
+      "name": "地主争夺战",
+      "category": "娱乐设施",
+      "description": "三个人一桌，输赢不重要，嘴硬最重要",
+      "imageUrl": "",
+      "recipeUnlock": false,
+      "placeholderEmoji": "♠️"
+    },
+    {
+      "price": 0,
+      "tags": [
+        "娱乐",
+        "棋牌",
+        "掼蛋"
+      ],
+      "id": "e04",
+      "name": "掼蛋上头局",
+      "category": "娱乐设施",
+      "description": "饭可以少吃，牌不能少打",
+      "imageUrl": "",
+      "recipeUnlock": false,
+      "placeholderEmoji": "🃏"
+    },
+    {
+      "price": 0,
+      "tags": [
+        "娱乐",
+        "游戏",
+        "Switch"
+      ],
+      "id": "e05",
+      "name": "Switch 手柄抢夺战",
+      "category": "娱乐设施",
+      "description": "马车、舞力、派对游戏，谁菜谁再来一局",
+      "imageUrl": "",
+      "recipeUnlock": false,
+      "placeholderEmoji": "🎮"
+    },
+    {
+      "price": 0,
+      "tags": [
+        "娱乐",
+        "棋牌",
+        "麻将"
+      ],
+      "id": "e06",
+      "name": "麻将三缺一",
+      "category": "娱乐设施",
+      "description": "东南西北都到了，就差你上桌",
+      "imageUrl": "",
+      "placeholderEmoji": "🀄️",
+      "recipeUnlock": false
+    }
+  ]
+}
