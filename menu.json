@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "recipeUnlockPrice": 9.9,
   "currency": "CNY",
   "dishes": [
@@ -625,21 +625,20 @@
       "price": 0,
       "tags": [
         "凉菜",
-        "辣",
-        "川菜"
+        "下酒",
+        "闲嗑"
       ],
-      "id": "d33",
-      "name": "口水横飞口水鸡",
+      "id": "d50",
+      "name": "闲嗑一碟毛豆花生",
       "category": "凉丝丝",
-      "description": "麻辣鲜香，鸡肉嫩滑，越吃越上头",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d33-%E5%8F%A3%E6%B0%B4%E6%A8%AA%E9%A3%9E%E5%8F%A3%E6%B0%B4%E9%B8%A1.jpg",
-      "difficulty": "medium",
-      "recipePrice": 12.8,
+      "description": "八角香叶水煮，追剧聚会一盘不够分",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d50-%E9%97%B2%E5%97%91%E4%B8%80%E7%A2%9F%E6%AF%9B%E8%B1%86%E8%8A%B1%E7%94%9F.jpg",
+      "difficulty": "easy",
+      "recipePrice": 6.6,
       "recipeSteps": [
-        "鸡腿冷水下锅加葱姜料酒，煮15分钟关火焖10分钟",
-        "捞出立刻泡冰水，撕条或切块",
-        "调口水汁：生抽、香醋、辣椒油、花椒油、糖、蒜末、花生碎",
-        "鸡肉摆盘，浇汁，撒葱花和芝麻"
+        "毛豆剪口，花生洗净；冷水下锅，加八角、干辣椒、盐",
+        "大火煮开后转中小火煮15-20分钟，毛豆熟、花生带脆最好",
+        "关火浸泡10分钟更入味，沥干装盘，热吃冷吃都行"
       ]
     },
     {
@@ -724,6 +723,27 @@
         "揪小剂子，在光滑面板或刀面上搓成薄筒状，码入蒸笼",
         "水开蒸10-12分钟至熟",
         "调蘸汁：番茄鸡蛋卤，或羊肉臊子，或醋+蒜泥+香油+酱油"
+      ]
+    },
+    {
+      "price": 0,
+      "tags": [
+        "家常",
+        "东北菜",
+        "下饭菜"
+      ],
+      "id": "d49",
+      "name": "酱烧软嫩闹茄子",
+      "category": "家的味道",
+      "description": "紫皮茄子酱烧到软烂，黏糊下饭那种闹法",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d49-%E9%85%B1%E7%83%A7%E8%BD%AF%E5%AB%A9%E9%97%B9%E8%8C%84%E5%AD%90.jpg",
+      "difficulty": "medium",
+      "recipePrice": 9.9,
+      "recipeSteps": [
+        "茄子切滚刀块，撒盐杀水10分钟，挤干（不然太吸油）",
+        "多油中火把茄子煸到表面微焦变软，盛出",
+        "留底油爆香葱蒜，加生抽、老抽、少许糖、蚝油和一点水",
+        "倒回茄子小火咕嘟2分钟，撒香菜或青椒，拌饭开吃"
       ]
     },
     {
@@ -915,14 +935,28 @@
     {
       "price": 0,
       "tags": [
+        "烧烤",
+        "外卖",
+        "解馋"
+      ],
+      "id": "d51",
+      "name": "小杜代点烧烤外卖",
+      "category": "烧烤",
+      "description": "家里没炭火，但我可以帮你点外卖，想吃啥备注里写",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/KiKi6427/family-menu-images@main/menu-table-images/d51-%E5%B0%8F%E6%9D%9C%E4%BB%A3%E7%82%B9%E7%83%A7%E7%83%A4%E5%A4%96%E5%8D%96.jpg",
+      "recipeUnlock": false
+    },
+    {
+      "price": 0,
+      "tags": [
         "娱乐",
         "音乐",
         "现场"
       ],
       "id": "e01",
-      "name": "小杜自弹自唱 Live",
+      "name": "客人自弹自唱局",
       "category": "娱乐设施",
-      "description": "饭后限定曲目，跑调也算气氛组",
+      "description": "杜杜备好场地和工具，想唱就来，跑调也算气氛组",
       "imageUrl": "",
       "recipeUnlock": false,
       "placeholderEmoji": "🎸"
